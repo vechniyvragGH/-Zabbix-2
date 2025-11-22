@@ -253,9 +253,7 @@
 
  1. Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
-
 ---
-### My_dashboard выводит показания CPU и GPU hosts DorozhkinAS-1 и DorozhkinAS-2 
 
 <img width="1747" height="832" alt="image" src="https://github.com/user-attachments/assets/b0234c84-9aff-4476-9453-c67f5782ca8c" />
 
