@@ -132,6 +132,14 @@
 
    Выбрать хост, к которому применили шаблон, и проверить, что новые элементы с данными по CPU и RAM отображаются корректно.
 
+<img width="1680" height="595" alt="image" src="https://github.com/user-attachments/assets/4020232d-9f05-4bfe-a96a-9ceb92cfa723" />
+
+<img width="1670" height="700" alt="image" src="https://github.com/user-attachments/assets/0a46cfc1-eaf1-4dd3-abae-ea156d0b8f7e" />
+
+<img width="1711" height="762" alt="image" src="https://github.com/user-attachments/assets/0f2af62d-bb37-47ea-921a-b88f6c9cbf97" />
+
+<img width="1701" height="721" alt="image" src="https://github.com/user-attachments/assets/9072cd89-0a95-4560-9cec-02387b4c0451" />
+
 
 <img width="1442" height="298" alt="image" src="https://github.com/user-attachments/assets/13b98063-9f44-4d6b-b85f-6b54b075ea24" />
 
